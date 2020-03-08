@@ -101,7 +101,9 @@ end
   end.first
  end
  
-  def self.
+  def self.all_students_in_grade_X 
+    
+  end
     
   
   def self.drop_table
